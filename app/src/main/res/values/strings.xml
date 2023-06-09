@@ -1,0 +1,27 @@
+<resources>
+    <string name="Meal_Master">Meal Master</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Philippines</item>
+    </string-array>
+
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="DishName">
+        <item>Turones</item>
+        <item>Pastil</item>
+        <item>Banana Bread</item>
+        <item>Healing  Cookies</item>
+        <item>Potato cheese ball</item>
+        <item>Churros</item>
+        <item>Magic gulaman</item>
+        <item>Corndog</item>
+        <item>Fruit tea and Milktea</item>
+    </string-array>
+</resources>
