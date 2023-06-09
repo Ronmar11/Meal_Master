@@ -67,7 +67,7 @@ public class ChefPendingOrdersAdapter extends RecyclerView.Adapter<ChefPendingOr
 
         final ChefPendingOrders1 chefPendingOrders1 = chefPendingOrders1list.get(position);
         holder.Address.setText(chefPendingOrders1.getAddress());
-        holder.grandtotalprice.setText("GrandTotal: ₹ " + chefPendingOrders1.getGrandTotalPrice());
+        holder.grandtotalprice.setText("GrandTotal: ₱ " + chefPendingOrders1.getGrandTotalPrice());
         final String random = chefPendingOrders1.getRandomUID();
         holder.Vieworder.setOnClickListener(new View.OnClickListener() {
             @Override
