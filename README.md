@@ -1,4 +1,4 @@
-# FoodOn
+# Meal Master
 
 ## Installation Guide
 1. Clone repository
